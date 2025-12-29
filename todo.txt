@@ -1,4 +1,4 @@
 Hello
 
-!) Do homework
+1. Пройти пару **тем** по Git.
 2) 
